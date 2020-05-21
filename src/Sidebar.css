@@ -1,0 +1,78 @@
+/* sidebar / desktop */
+
+.Sidebar {
+position: absolute;
+width: 240px;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -21px;
+
+background: #F3F4F9;
+border-radius: 0px;
+}
+/* coupon 1 */
+.Sidebar-logo{
+    position: absolute;
+    width: 121px;
+    height: 50px;
+    left: 41px;
+    top: 41px;
+}
+.Sidebar-logo_icon {
+position: absolute;
+width: 50px;
+height: 50px;
+left: 0px;
+top: calc(50% - 50px/2);
+}
+.Sidebar-logo_text{
+position: absolute;
+width: 61px;
+height: 24px;
+left: 60px;
+top: calc(50% - 24px/2);
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #333333;
+}
+/* Каталог */
+
+.Sidebar-text {
+position: relative;
+width: 122px;
+height: 22px;
+left: 76px;
+top: 19px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #333333;
+}
+.Sidebar-category {
+ position: relative;
+ height: 64px;
+ left: 0px;
+ right: 0px;
+ top: 132px;
+}
+.Sidebar-category-icon {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 40px;
+    top: 18px;
+   }

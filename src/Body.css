@@ -1,0 +1,219 @@
+.Body{
+    position: absolute;
+    width: 1200px;
+    height: 699px;
+    left: 240px;
+    top: 201px;
+    overflow-y: scroll;
+}
+.Coupon1{
+    
+position: absolute;
+height: 161px;
+left: 5%;
+right: 66.08%;
+top: 40px;
+}
+.Coupon2{
+    position: absolute;
+height: 161px;
+left: 35.58%;
+right: 35.58%;
+top: 40px;
+
+}
+.Coupon3{
+    
+position: absolute;
+height: 161px;
+left: 66.08%;
+right: 5%;
+top: 40px;
+}
+.Coupon4{
+    position: absolute;
+height: 161px;
+left: 5%;
+right: 66.08%;
+top: 221px;
+}
+.Coupon5{
+    position: absolute;
+height: 161px;
+left: 35.58%;
+right: 35.58%;
+top: 221px;
+}
+.Coupon6{
+    position: absolute;
+height: 161px;
+left: 66.08%;
+right: 5%;
+top: 221px;
+}
+.Coupon7{
+    position: absolute;
+height: 161px;
+left: 5%;
+right: 66.08%;
+top: 402px;
+}
+.Coupon8{
+    position: absolute;
+height: 161px;
+left: 35.58%;
+right: 35.58%;
+top: 402px;
+
+}
+.Coupon9{
+    position: absolute;
+height: 161px;
+left: 66.08%;
+right: 5%;
+top: 402px;
+}
+.Coupon-Hover{
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    bottom: 0.18%;
+}
+.Coupon-Top{
+    position: absolute;
+    height: 36px;
+    left: 20px;
+    right: 20px;
+    top: 16px;    
+}
+.Coupon-Top_Tittle{
+    position: absolute;
+height: 16px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+color: #000000;    
+}
+.Coupon-Top_Description{
+    position: absolute;
+    height: 16px;
+    left: 0px;
+    right: 0px;
+    top: 20px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    /* identical to box height, or 100% */
+    
+    
+    color: #000000;
+    
+    opacity: 0.5;
+}
+.Coupon-Bottom{
+    position: absolute;
+    width: 197px;
+    height: 50px;
+    left: 20px;
+    bottom: 16px;
+}
+.Coupon-Bottom_Num{
+    position: absolute;
+    height: 28px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 28px;
+    /* identical to box height, or 78% */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #DF212D;
+}
+.Coupon-Bottom_Label{
+    position: absolute;
+    height: 16px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    /* identical to box height, or 100% */
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.4em;
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+    opacity: 0.5;
+}
+.Coupon-Image{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+}
+.Coupon-Image_Image{
+    position: absolute;
+    width: 130px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+}
+.Coupon-Image_Bgcolor{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+.Coupon-Image_Mask{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    mask: url(images/Body/cover.png);
+    background: #FFFFFF;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.15);
+}
+.Coupon-Cover{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.15);
+}

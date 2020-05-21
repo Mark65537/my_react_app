@@ -1,0 +1,78 @@
+.Header{
+    position: absolute;
+    height: 201px;
+    left: 240px;
+    right: 0px;
+    top: 0px;
+
+    background: #FFFFFF;  
+}
+.Headline{
+    position: absolute;
+    width: 400px;
+    height: 49px;
+    left: 60px;
+    top: 40px;
+}
+.Headline-text{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 22.45%;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 38px;
+
+color: #000000;
+
+opacity: 0.85;
+}
+
+.Header-search{
+    position: absolute;
+    width: 1080px;
+    height: 52px;
+    left: 60px;
+    top: 109px; 
+}
+.Header-search_icon{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 36px;
+    top: calc(50% - 20px/2);
+}
+.Header-search_text{
+position: absolute;
+height: 28px;
+left: 64px;
+right: 16px;
+top: calc(50% - 28px/2);
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.45);
+}
+.Header-search_rectangle{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid rgba(51, 51, 51, 0.2);
+box-sizing: border-box;
+border-radius: 50px;
+}
